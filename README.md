@@ -35,10 +35,6 @@ appium
 ```sh
 robot -d results tests/android
 ```
-
-### 3️⃣ Executar os testes no iOS
-```sh
-robot -d results tests/ios
 ```
 
 ### 4️⃣ Executar um teste específico
